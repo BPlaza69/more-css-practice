@@ -1,1 +1,21 @@
-/* Add your CSS here */
+h1 {
+  display: inline;
+  font-size: 70px;
+  font-style: monospace;
+  text-transform: uppercase;
+}
+
+li {
+display: inline;
+padding: 10px;
+margin-right: 20px;
+width: 50%;
+font-size: 20px;
+text-transform: uppercase;
+background-color: darkred;
+color: white;
+}
+
+img{
+  width: 350px;
+}
