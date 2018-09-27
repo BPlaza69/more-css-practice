@@ -44,3 +44,9 @@ input[type=number]{
   display: inline-block;
   width: 49%;
 }
+
+h1 {
+  background-color: blue;
+  padding: 1em;
+  text-align: center;
+}
