@@ -1,5 +1,4 @@
 div {
   float: left;
-  padding-left: 1%;
-  padding-right: 1%;
+  padding: 1em;
 }

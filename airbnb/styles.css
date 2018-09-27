@@ -1,9 +1,46 @@
-h1 {
+button {
+  border-radius: 4px;
+  padding: 15px;
+  width: 100%;
+  background-color: #F75D59;
   color: white;
-  position: absolute;
 }
 
-a {
-  position: relative;
-  z-index: -1
+.imgsize {
+  width: 130px;
+  height: 90px;
+}
+
+input[type=date]{
+  float: left;
+  box-sizing: border-box;
+  width: 50%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+input[type=text]{
+  width: 98.5%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+input[type=number]{
+  width: 98.5%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+.label {
+  display: inline-block;
+  width: 49%;
 }
